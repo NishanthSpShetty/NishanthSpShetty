@@ -9,3 +9,6 @@ Im a passionate developer currently working as a Software Engineer at Gojek.
 * I'm very curious and eager to learn and build stuff.
 
 ![My Repo stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&show_icons=true&count_private=true&hide_border=true&title_color=000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthSpShetty&layout=compact&show_icons=true)
+
