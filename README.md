@@ -15,6 +15,6 @@ Im a passionate developer currently working as a Software Engineer at Gojek.
 
 Follow me on
 
-<a href="www.linkedin.com/in/nishanthspshetty" target="_blank"><img align="left" alt="Nishanth Shetty | LinkedIn" width="22px" src=https://raw.githubusercontent.com/NishanthSpShetty/NishanthSpShetty/master/images/linkedin.png />
+<a href="https://linkedin.com/in/nishanthspshetty" target="_blank"><img align="left" alt="Nishanth Shetty | LinkedIn" width="22px" src=https://raw.githubusercontent.com/NishanthSpShetty/NishanthSpShetty/master/images/linkedin.png />
 <a href="https://medium.com/@nishanthspshetty" target="_blank"><img align="left" alt="Nishanth Shetty | Medium" width="22px" src=https://raw.githubusercontent.com/NishanthSpShetty/NishanthSpShetty/master/images/medium.png />
  
