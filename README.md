@@ -4,7 +4,7 @@
 
 Im a passionate developer currently working as a Senior Product Engineer at NetBook
 
-* I spend my time working on Golang as mainstream languages. Rust and C++ occassionally.
+* I spend my time working on Golang as mainstream languages.
 * I also spend time tinkering around other languages and tools. 
 * I'm very curious and eager to learn and build stuff.
 
