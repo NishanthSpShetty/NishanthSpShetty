@@ -9,9 +9,9 @@ Im a passionate developer currently working as a Senior Product Engineer at NetB
 * I'm very curious and eager to learn and build stuff.
 
 
-![My Repo stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&show_icons=true&count_private=true&hide_border=true&title_color=000)
+![My Repo stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&theme=onedark&show_icons=true&count_private=true&hide_border=false&title_color=000&layout=compact&)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthSpShetty&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthSpShetty&layout=compact&show_icons=true&theme=onedark)
 
 Follow me on
 
