@@ -2,6 +2,8 @@
 
 ### Hi, there.
 
+As Turing said, "Mathematician with the different ability".
+
 Software engineer with 5+ years of experience in building systems.
 
 * I spend my time working on Golang as mainstream languages.
