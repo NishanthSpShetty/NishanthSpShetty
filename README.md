@@ -2,11 +2,12 @@
 
 ### Hi, there.
 
-Im a passionate developer currently working as a Senior Product Engineer at NetBook
+Software engineer with 5+ years of experience in building systems.
 
 * I spend my time working on Golang as mainstream languages.
 * I also spend time tinkering around other languages and tools. 
-* I'm very curious and eager to learn and build stuff.
+* Building distributed systems.
+* neovimer
 
 
 ![My Repo stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&theme=onedark&show_icons=true&count_private=true&hide_border=false&title_color=000&layout=compact&)
