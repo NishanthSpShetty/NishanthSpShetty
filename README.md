@@ -6,7 +6,7 @@ As Turing said, "Mathematician with the different ability".
 
 Software engineer with 5+ years of experience in building systems.
 
-* I spend my time working on Golang as mainstream languages.
+* I spend my time working on Golang as mainstream language.
 * I also spend time tinkering around other languages and tools. 
 * Building distributed systems.
 * neovimer
