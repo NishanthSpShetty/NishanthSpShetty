@@ -16,6 +16,8 @@ Software engineer with 6+ years of experience learning, building and deploying s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthSpShetty&layout=compact&show_icons=true&theme=onedark)
 
+![Repo contributions](https://api.githubtrends.io/user/svg/NishanthSpShetty/repos?time_range=one_year&theme=dark)
+
 Follow me on
 [nsphub.in](https://www.nsphub.in)
 
