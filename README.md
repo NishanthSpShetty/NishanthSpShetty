@@ -11,8 +11,11 @@ Software engineer with 6+ years of experience learning, building and deploying s
 * Building distributed message queue.
 
 
-![My Repo stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&theme=onedark&show_icons=true&count_private=true&hide_border=false&title_color=000&layout=compact&)
+![NishanthSpShetty's Stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![NishanthSpShetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NishanthSpShetty&theme=vue-dark&hide_border=true)
+
+![NishanthSpShetty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthSpShetty&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Follow me on
 [nsphub.in](https://www.nsphub.in)
