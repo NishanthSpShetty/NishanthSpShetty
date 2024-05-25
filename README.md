@@ -9,6 +9,7 @@ Software engineer with 6+ years of experience learning, building and deploying s
 * I spend my time working on Golang as mainstream language.
 * I also spend time tinkering around other languages and tools. 
 * Building distributed message queue.
+* neovimer 🤷‍♂️
 
 
 ![NishanthSpShetty's Stats](https://github-readme-stats.vercel.app/api?username=NishanthSpShetty&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
